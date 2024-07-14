@@ -1,0 +1,22 @@
+.home{
+    background-image: url(Blue\ Natural\ Quotes\ PhoneWallpaper.png);
+    background-position: center;
+    background-size:100% ;
+    font-family: "Roboto Mono", monospace;
+    color:rgb(6, 16, 46);
+    text-align: center;
+}
+
+h1 {
+    font-size:80px;
+}
+
+p {
+    font-size: 30px;
+}
+
+
+
+
+
+
